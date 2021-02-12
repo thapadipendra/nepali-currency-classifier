@@ -1,4 +1,4 @@
-# CATVSDOG
+# nepali money classifier with 7 classes
 
 A new Flutter project.
 
